@@ -1,0 +1,24 @@
+h1{
+  text-align: center;
+  font-size: 70px;
+  color: red;
+  font-family: cursive;
+}
+.flashy{
+  color: red;
+  font-style: italic;
+}
+.best{
+  font-weight: bold;
+  color: blue;
+}
+p{
+  font-size: 55px;
+}
+ul{
+  font-size: 30px;
+}
+body{
+  background-image:url(https://thumbs.dreamstime.com/t/abstract-background-watercolor-wash-marble-pattern-texture-natural-background-interiors-marble-stone-wall-design-abstract-103544681.jpg);
+  background-repeat: repeat;
+}
